@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Akrs",
+    "longName": "LCARS",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "LCARS",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "6724dc3f-7a51-443a-8f97-c0e98fd1077f",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
