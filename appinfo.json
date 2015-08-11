@@ -7,7 +7,14 @@
     "longName": "LCARS",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "characterRegex": ".",
+                "file": "fonts/tt0106m0.TTF",
+                "name": "S911_24",
+                "type": "font"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "LCARS",
